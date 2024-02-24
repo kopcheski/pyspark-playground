@@ -1,64 +1,62 @@
-{
-  "people": [
-    {
-      "name": "Vincent van Gogh",
-      "date_of_birth": "1853-03-30",
-      "birthplace": "Zundert, Netherlands",
-      "profession": "Painter"
-    },
-    {
-      "name": "Anne Frank",
-      "date_of_birth": "1929-06-12",
-      "birthplace": "Frankfurt, Germany",
-      "profession": "Diarist"
-    },
-    {
-      "name": "Rembrandt van Rijn",
-      "date_of_birth": "1606-07-15",
-      "birthplace": "Leiden, Netherlands",
-      "profession": "Painter"
-    },
-    {
-      "name": "Johan Cruyff",
-      "date_of_birth": "1947-04-25",
-      "birthplace": "Amsterdam, Netherlands",
-      "profession": "Footballer"
-    },
-    {
-      "name": "Queen Maxima",
-      "date_of_birth": "1971-05-17",
-      "birthplace": "Buenos Aires, Argentina",
-      "profession": "Queen Consort"
-    },
-    {
-      "name": "Antoni van Leeuwenhoek",
-      "date_of_birth": "1632-10-24",
-      "birthplace": "Delft, Netherlands",
-      "profession": "Microbiologist"
-    },
-    {
-      "name": "Frank Rijkaard",
-      "date_of_birth": "1962-09-30",
-      "birthplace": "Amsterdam, Netherlands",
-      "profession": "Footballer"
-    },
-    {
-      "name": "Aletta Jacobs",
-      "date_of_birth": "1854-02-09",
-      "birthplace": "Groningen, Netherlands",
-      "profession": "Physician"
-    },
-    {
-      "name": "Arjen Robben",
-      "date_of_birth": "1984-01-23",
-      "birthplace": "Bedum, Netherlands",
-      "profession": "Footballer"
-    },
-    {
-      "name": "Carice van Houten",
-      "date_of_birth": "1976-09-05",
-      "birthplace": "Leiderdorp, Netherlands",
-      "profession": "Actress"
-    }
-  ]
-}
+[
+  {
+    "name": "Vincent van Gogh",
+    "date_of_birth": "1853-03-30",
+    "birthplace": "Zundert, Netherlands",
+    "profession": "Painter"
+  },
+  {
+    "name": "Anne Frank",
+    "date_of_birth": "1929-06-12",
+    "birthplace": "Frankfurt, Germany",
+    "profession": "Diarist"
+  },
+  {
+    "name": "Rembrandt van Rijn",
+    "date_of_birth": "1606-07-15",
+    "birthplace": "Leiden, Netherlands",
+    "profession": "Painter"
+  },
+  {
+    "name": "Johan Cruyff",
+    "date_of_birth": "1947-04-25",
+    "birthplace": "Amsterdam, Netherlands",
+    "profession": "Footballer"
+  },
+  {
+    "name": "Queen Maxima",
+    "date_of_birth": "1971-05-17",
+    "birthplace": "Buenos Aires, Argentina",
+    "profession": "Queen Consort"
+  },
+  {
+    "name": "Antoni van Leeuwenhoek",
+    "date_of_birth": "1632-10-24",
+    "birthplace": "Delft, Netherlands",
+    "profession": "Microbiologist"
+  },
+  {
+    "name": "Frank Rijkaard",
+    "date_of_birth": "1962-09-30",
+    "birthplace": "Amsterdam, Netherlands",
+    "profession": "Footballer"
+  },
+  {
+    "name": "Aletta Jacobs",
+    "date_of_birth": "1854-02-09",
+    "birthplace": "Groningen, Netherlands",
+    "profession": "Physician"
+  },
+  {
+    "name": "Arjen Robben",
+    "date_of_birth": "1984-01-23",
+    "birthplace": "Bedum, Netherlands",
+    "profession": "Footballer"
+  },
+  {
+    "name": "Carice van Houten",
+    "date_of_birth": "1976-09-05",
+    "birthplace": "Leiderdorp, Netherlands",
+    "profession": "Actress"
+  }
+]
