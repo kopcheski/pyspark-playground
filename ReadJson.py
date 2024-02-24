@@ -1,7 +1,5 @@
-from datetime import date
-
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import array_contains, col
+from pyspark.sql.functions import col, datediff, current_date
 
 # Spark session & context
 spark = (SparkSession.builder
@@ -16,6 +14,6 @@ df.show(10, False)
 
 (df.filter(df.profession == "Footballer")
     .sort(col("date_of_birth"))
-    # .withColumn("current_age", date.today().year() - col("date_of_birth"))
-    # .withColumn("current_age", lit("22"))
+    .withColumn("current_age", datediff(current_date(), col("date_of_birth")) / 365)
+    .withColumn("current_age", col("current_age").cast("int"))
     .show(10, False, True))
